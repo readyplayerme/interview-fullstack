@@ -4,9 +4,9 @@ function App() {
     <div className="App">
       <div>
           <h1>Your avatar:</h1>
-          Your avatar_id <input type="text"/> <br/> (examples: 63516f3fde537bea215e12ea, 5f97f0df9d498453a69d46e1)
+          Your avatar_id <input type="text"/> <br/> (examples: 6002118ef4c903f8d1052305, 600ab7eb000eff7eb8b01eb2)
             <a href="https://reactjs.org" target="_blank">
-              <img src="http://localhost:3000/?id=63516f3fde537bea215e12ea" className="logo react" />
+              <img src="http://localhost:3000/?id=6002118ef4c903f8d1052305" className="logo react" />
             </a>
       </div>
      
